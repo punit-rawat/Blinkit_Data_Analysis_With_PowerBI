@@ -29,11 +29,20 @@ Create a comprehensive sales dashboard for Blinkit to analyze key metrics and ge
 **Key Metrics Analyzed**
 
 • Total Sales: $1.20M
+
 • Average Sales: $141
+
 • Number of Items Sold: 9K
+
 • Average Customer Rating: 3.9
 
+![Uploading Blinkit Report PNG.JPG…]()
+
+
 **Insights:**
+
 • Top-selling categories: Fruits & Vegetables and Snack Foods ($0.18M each)
+
 • Highest revenue stores: Established in 2018 ($205K)
+
 • Medium-sized stores: Contribute 42.3% of total sales
