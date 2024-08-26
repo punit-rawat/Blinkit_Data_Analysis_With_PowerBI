@@ -48,5 +48,7 @@ Create a comprehensive sales dashboard for Blinkit to analyze key metrics and ge
 • Medium-sized stores: Contribute 42.3% of total sales
 
 
+**Image:**
+
 ![Blinkit Report PNG](https://github.com/user-attachments/assets/78b4cd18-52d7-4878-b557-e899c05c4105)
 
