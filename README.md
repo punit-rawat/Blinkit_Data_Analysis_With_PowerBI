@@ -36,7 +36,7 @@ Create a comprehensive sales dashboard for Blinkit to analyze key metrics and ge
 
 • Average Customer Rating: 3.9
 
-![Uploading Blinkit Report PNG.JPG…]()
+
 
 
 **Insights:**
@@ -46,3 +46,6 @@ Create a comprehensive sales dashboard for Blinkit to analyze key metrics and ge
 • Highest revenue stores: Established in 2018 ($205K)
 
 • Medium-sized stores: Contribute 42.3% of total sales
+
+
+![Uploading Blinkit Report PNG.JPG…]()
